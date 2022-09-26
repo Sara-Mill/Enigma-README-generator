@@ -16,7 +16,7 @@ const questions = [
             },
         ])
         .then((data) => {
-    const filename = `${data.name}.json`;
+    const filename = `${data.name}.md`;
 
     fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
       err ? console.log(err) : console.log('Success!')
