@@ -10,12 +10,18 @@ const questions = [
             message: 'What is your GitHub URL?',
             name: 'GitHub',
             },
+            {type: 'input',
+            message: 'What is the title of your project?',
+            name: 'Project Title',
+            },
         ])
-        .then((data) =>
-        fs.writeFile(`README.md`, JSON.stringify(data), (err) =>
-            err ? console.error(err) : console.log('Success!' + JSON.stringify(data)) 
-        )
-        )
+        .then((data) => {
+    const filename = `${data.name}.json`;
+
+    fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
+      err ? console.log(err) : console.log('Success!')
+    );
+        })
 ];
 
 // TODO: Create a function to write README file
