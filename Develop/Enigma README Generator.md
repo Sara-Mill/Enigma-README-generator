@@ -38,7 +38,7 @@ The generated README includes the following section
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
-  This app can be found on my github page at [$(data.github)](https://github.com/Sara-Mill).
+  This app can be found on my github page at [`$(data.github)`](https://github.com/Sara-Mill).
   Sara-Mill
 
   If you have any questions or need to contact me about this app, I can be reached on Github or by email at [smilligan0183@gmail.com](smilligan0183@gmail.com)

@@ -12,8 +12,8 @@ function renderLicenseSection(license) {}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `The generated README includes the following section
-  # Project Title
+  return `
+  ## Project Title
   ${data.title}
   ${data.getLicense}
   
@@ -52,7 +52,7 @@ function generateMarkdown(data) {
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
-  This app can be found on my github page at [$(data.github)](https://github.com/${data.github}).
+  This app can be found on my github page at (https://github.com/${data.github}).
   ${data.github}
 
   If you have any questions or need to contact me about this app, I can be reached on Github or by email at [${data.email}](${data.email})
