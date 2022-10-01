@@ -1,7 +1,7 @@
-The generated README includes the following section
-  # Project Title
-  Enigma README Generator
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+  ## Project Title
+  Enigma README generator
+  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
   
   ##Table of Contents
   * [Description](#description)
@@ -14,11 +14,11 @@ The generated README includes the following section
   
   <a name = 'description'></a>
   ## Description
-  README Generator
+  This creates a professional README file
 
   <a name = 'usefaq'></a>
   ## Usage
-  must require inquirer
+  use inquirer
 
   <a name = 'install'></a>
   ## Installation
@@ -30,15 +30,15 @@ The generated README includes the following section
 
   <a name = 'license'></a>
   ## License
-  The application is covered under a Apache 2.0 license.
+  The application is covered under a Boost Software 1.0 license.
 
   <a name = 'contributing'></a>
   ## Contributing to this Repo
-  fork the repository, then code
+  fork the repo, then code
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
-  This app can be found on my github page at [`$(data.github)`](https://github.com/Sara-Mill).
+  This app can be found on my github page at (https://github.com/Sara-Mill).
   Sara-Mill
 
   If you have any questions or need to contact me about this app, I can be reached on Github or by email at [smilligan0183@gmail.com](smilligan0183@gmail.com)
