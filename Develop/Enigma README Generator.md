@@ -1,9 +1,9 @@
 
   ## Project Title
-  Enigma README generator
-  [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  ## Enigma README Generator
+  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
   
-  ##Table of Contents
+  ## Table of Contents
   * [Description](#description)
   * [Usage](#usefaq)
   * [Installation](#install)
@@ -14,27 +14,27 @@
   
   <a name = 'description'></a>
   ## Description
-  This creates a professional README file
+  This creates a professional README using command line prompts
 
   <a name = 'usefaq'></a>
   ## Usage
-  use inquirer
+  Please use responsibly
 
   <a name = 'install'></a>
   ## Installation
-  npm install
+  Npm install
 
   <a name = 'test'></a>
   ## Testing
-  jest
+  Jest
 
   <a name = 'license'></a>
   ## License
-  The application is covered under a Boost Software 1.0 license.
+  The application is covered under a GNU LGPLv3 license.
 
   <a name = 'contributing'></a>
   ## Contributing to this Repo
-  fork the repo, then code
+  Fork the repo then code
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
