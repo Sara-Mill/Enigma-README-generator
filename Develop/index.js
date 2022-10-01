@@ -43,11 +43,11 @@ const questions = [
             },
             {type: 'input',
             message: 'What command should be run to install dependencies?',
-            name: 'install: ',
+            name: 'install',
             },
             {type: 'input',
             message: 'What does the reader need to know about using the repo?',
-            name: 'usefaq: ',
+            name: 'usefaq',
             },
             {
                 type: "list",
@@ -65,7 +65,7 @@ const questions = [
             },
             {type: 'input',
             message: 'How can someone contribute to your code?',
-            name: 'contributions: ',
+            name: 'contributing',
             },
             {type: 'input',
             message:'What command should be run to run tests?',
@@ -73,7 +73,7 @@ const questions = [
             },
             {type: 'input',
             message: 'How can user contact you if they have  questions?',
-            name: 'If you have questions, please contact me at ',
+            name: 'questions',
             },
     ]
         // )

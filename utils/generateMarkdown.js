@@ -15,14 +15,15 @@ function generateMarkdown(data) {
   return `The generated README includes the following section
   # Project Title
   ${data.title}
+  ${data.getLicense}
   
   ##Table of Contents
-  * [Description]{#description}
+  * [Description](#description)
   * [Usage](#usefaq)
   * [Installation](#install)
   * [Testing](#test)
   * [License](#license)
-  * [Contributing to this Repo](#contributefaq)
+  * [Contributing to this Repo](#contributing)
   * [Questions / Contact Details](#questions)
   
   <a name = 'description'></a>
@@ -45,9 +46,9 @@ function generateMarkdown(data) {
   ## License
   The application is covered under a ${data.license} license.
 
-  <a name = 'contributefaq'></a>
+  <a name = 'contributing'></a>
   ## Contributing to this Repo
-  ${data.contributefaq}
+  ${data.contributing}
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
