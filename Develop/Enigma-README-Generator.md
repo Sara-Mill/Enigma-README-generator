@@ -1,7 +1,7 @@
 
   ## Project Title
-  ## Enigma README Generator
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  ## Enigma-README-Generator
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Table of Contents
   * [Description](#description)
@@ -14,15 +14,15 @@
   
   <a name = 'description'></a>
   ## Description
-  This creates a professional README using command line prompts
+  Creates a professional README file
 
   <a name = 'usefaq'></a>
   ## Usage
-  Please use responsibly
+  Must use Inquirer package
 
   <a name = 'install'></a>
   ## Installation
-  Npm install
+  NPM install
 
   <a name = 'test'></a>
   ## Testing
@@ -30,11 +30,11 @@
 
   <a name = 'license'></a>
   ## License
-  The application is covered under a GNU LGPLv3 license.
+  The application is covered under a Apache 2.0 license.
 
   <a name = 'contributing'></a>
   ## Contributing to this Repo
-  Fork the repo then code
+  Fork the rpo, and then code
 
   <a name = 'questions'></a>
   ## Questions / Contact Details
