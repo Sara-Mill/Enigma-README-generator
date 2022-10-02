@@ -1,4 +1,4 @@
-This project create a professional README using command-line prompts.
+This project creates a professional README using command-line prompts.
 
 A video on the instructions and functionality can be found here: https://youtu.be/TdH0cRs0Xf0
 
@@ -36,7 +36,7 @@ The application is covered under a Apache 2.0 license.
 
 
 # Contributing
-Fork the rpo, and then code
+Fork the repo, and then code
 
 
 # Questions
