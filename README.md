@@ -8,8 +8,8 @@ License
 
 ## Table of Contents
   * [Description](#description)
-  * [Usage](#usefaq)
-  * [Installation](#install)
+  * [Usage](#usage)
+  * [Installation](#installation)
   * [Testing](#test)
   * [License](#license)
   * [Contributing to this Repo](#contributing)
@@ -27,7 +27,7 @@ Must use Inquirer package
 NPM install
 
 
-# Testing
+# Test
 Jest
 
 
@@ -35,11 +35,11 @@ Jest
 The application is covered under a Apache 2.0 license.
 
 
-# Contributing to this Repo
+# Contributing
 Fork the rpo, and then code
 
 
-# Questions / Contact Details
+# Questions
 This app can be found on my github page at (https://github.com/Sara-Mill). Sara-Mill
 
 If you have any questions or need to contact me about this app, I can be reached on Github or by email at smilligan0183@gmail.com
