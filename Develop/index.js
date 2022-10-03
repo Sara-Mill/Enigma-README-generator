@@ -23,8 +23,7 @@ function getLicense(value) {
 
 // TODO: Create an array of questions for user input
 const questions = [
-    // inquirer
-    //     .prompt([
+    
             {type: 'input',
             message: 'What is your Github username?',
             name: 'github',
@@ -76,16 +75,7 @@ const questions = [
             name: 'questions',
             },
     ]
-        // )
-        // .then((data) => {
-    // const filename = `${data.title}.md`;
-   
-    // fs.writeFile(filename,  JSON.stringify(data, null, '\t') , (err) =>
-    //   err ? console.log(err) : console.log('Success!' + filename)
-    // );
-//         })
-// ];
-
+       
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, generateMarkdown(data), (err) =>
